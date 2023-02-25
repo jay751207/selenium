@@ -8,4 +8,4 @@ for element in testList:
         print(element)
         index += 1
 
-print(f"-------------- Total {i} tests passed, {len(testList) - i} failed. -----------------")
+print(f"-------------- Total {index} tests passed, {len(testList) - index} failed. -----------------")
