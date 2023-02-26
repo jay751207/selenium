@@ -1,6 +1,6 @@
 I think there is no any text input filters in the front-end and the back-end side.
 Due to no any input filters, infinite search requests will cost a lot of server resource and cost.
 Hackers are easy to attack the service such as DDos, DDDos attack.
-Using placeholder to add some input hint in the input text.
+Using placeholder to add some input hint below the input text.
 Add some input filters can make service safe and lower the server cost.
 Add a Capcha can also make webside safer and hackers will need more effort to attack.
