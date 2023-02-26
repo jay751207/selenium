@@ -3,5 +3,4 @@ Due to no any input filters, infinite search requests will cost a lot of server 
 Hackers are easy to attack the service such as DDos, DDDos attack.
 Add a button disable click function when the input text is empty.
 Using placeholder to add some input hint below the input text.
-Add a Capcha can also make webside safer and hackers will need more effort to attack.
-Add some input filters can make service safe and lower the server cost.
+Add a reCapcha can also make webside safer and hackers will need more effort to attack.
