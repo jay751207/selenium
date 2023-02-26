@@ -1,6 +1,7 @@
 I think there is no any text input filters(ie. numbers only, 10 digits only, none empty...etc) in the front-end and the back-end side.
 Due to no any input filters, infinite search requests will cost a lot of server resource and cost.
 Hackers are easy to attack the service such as DDos, DDDos attack.
+Add a button function such as not able to click when no word key-in.
 Using placeholder to add some input hint below the input text.
 Add some input filters can make service safe and lower the server cost.
 Add a Capcha can also make webside safer and hackers will need more effort to attack.
