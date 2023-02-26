@@ -1,3 +1,4 @@
-I think there is no any input filter in front-end and back-end side.
-It will cost a lot of server resource.
-Hacker is easy to attack the service.
+I think there is no any text input filters in the front-end and the back-end side.
+Due to none filters, infinite serch requests will cost a lot of server resource.
+Hackers are easy to attack the service such as DDos, DDDos attack.
+Add some input filters can make service safe and lower the server cost.
