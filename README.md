@@ -5,7 +5,7 @@ Selenium webdriver to do test on the Barco.com. <br/>
 <li>Run C:\> python run.py will excute the test.</li>
 </ol>
 
-All 7 test cases are in the run.py file.
+All 7 test cases are in the run.py file. <br/>
 
-!using ChromeDriver 110.0.5481.77
-!chrome must run with version 110
+using ChromeDriver 110.0.5481.77 <br/>
+chrome must run with version 110
